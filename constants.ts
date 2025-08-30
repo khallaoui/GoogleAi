@@ -1,0 +1,17 @@
+export const PROGRAMMING_LANGUAGES: string[] = [
+  "JavaScript",
+  "TypeScript",
+  "Python",
+  "Java",
+  "C++",
+  "C#",
+  "Go",
+  "Rust",
+  "Ruby",
+  "PHP",
+  "HTML",
+  "CSS",
+  "SQL",
+  "Shell",
+  "Markdown",
+];
